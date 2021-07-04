@@ -1,4 +1,4 @@
-# Security Penetration Test of DVWA Web Application
+# Security Penetration Test of Damn Vulnerable Web Application (DVWA)
 ## Scope
 Scope of this penetration test is around DVWA and how it is vulnerable with respect to SQL injection and XSS (Cross Site Scripting) attack. This application is internet facing and requires the standard authentication using username and password identity elements for secure access.<br />
 ## Disclaimers
